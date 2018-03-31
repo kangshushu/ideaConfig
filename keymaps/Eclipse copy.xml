@@ -1,0 +1,17 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateApplicationServersToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="HippieCompletion" />
+</keymap>

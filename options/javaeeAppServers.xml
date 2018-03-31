@@ -1,0 +1,35 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="Tomcat 8.0.47">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="F:/IT/anzhuang-work/apache-tomcat-8.0.47" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="WebLogic 10.3.6.0">
+      <option name="SOURCE_INTEGRATION_NAME" value="WebLogic Server" />
+      <DATA>
+        <option name="BEA_HOME" value="F:\Oracle\weblogic1036" />
+        <option name="VERSION" value="10.3.6.0" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="Tomcat 8.0.47">
+        <CLASSES>
+          <root url="jar://F:/IT/anzhuang-work/apache-tomcat-8.0.47/lib/jsp-api.jar!/" />
+          <root url="jar://F:/IT/anzhuang-work/apache-tomcat-8.0.47/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="WebLogic 10.3.6.0">
+        <CLASSES>
+          <root url="jar://F:/Oracle/weblogic1036/wlserver_10.3/server/lib/jrmpclient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>

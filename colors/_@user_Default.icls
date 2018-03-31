@@ -1,0 +1,34 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-02-02T09:00:19</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.6.0.0</property>
+    <property name="modified">2018-03-28T14:16:29</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="c1f2c2" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f2b39b" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f2b39b" />
+        <option name="ERROR_STRIPE_COLOR" value="71b362" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f2b39b" />
+        <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

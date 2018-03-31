@@ -1,0 +1,58 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/src/com/yinhai/person/action/InsuredAction.java" timestamp="1522331493958">
+        <mark key="[" line="75" column="0" />
+      </file>
+      <file name="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" timestamp="1522373850476">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="80" column="58" />
+        <mark key="]" line="80" column="19" />
+        <mark key="^" line="80" column="19" />
+        <mark key="." line="80" column="19" />
+      </file>
+      <file name="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/src/com/yinhai/person/action/InsuredAction.java" timestamp="1522374577802">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="80" column="55" filename="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" />
+      <jump line="0" column="0" filename="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" />
+      <jump line="171" column="0" filename="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>;</text>
+      </register>
+      <register name=":" type="4">
+        <text>24</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>96</entry>
+        <entry>24</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

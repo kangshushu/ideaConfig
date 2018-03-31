@@ -1,0 +1,8 @@
+<keymap version="1" name="kang" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+</keymap>

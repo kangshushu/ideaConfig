@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://erp.yinhai.com:9001" />
+          <option name="name" value="kang" />
+          <option name="login" value="liukn" />
+          <password>df9bdf98df99df9edf9fdf9c</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
