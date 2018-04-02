@@ -34,7 +34,7 @@
       <entry shortcut="Alt+Shift+Up" count="34" />
       <entry shortcut="Alt+Slash" count="83" />
       <entry shortcut="Alt+Up" count="304" />
-      <entry shortcut="Backspace" count="2563" />
+      <entry shortcut="Backspace" count="2590" />
       <entry shortcut="Ctrl+0" count="3" />
       <entry shortcut="Ctrl+1" count="10" />
       <entry shortcut="Ctrl+2" count="1" />
@@ -89,7 +89,7 @@
       <entry shortcut="Ctrl+Q" count="6" />
       <entry shortcut="Ctrl+R" count="3" />
       <entry shortcut="Ctrl+Right" count="153" />
-      <entry shortcut="Ctrl+S" count="1178" />
+      <entry shortcut="Ctrl+S" count="1183" />
       <entry shortcut="Ctrl+Semicolon" count="5" />
       <entry shortcut="Ctrl+Shift+A" count="1" />
       <entry shortcut="Ctrl+Shift+Down" count="59" />
@@ -158,7 +158,7 @@
       <entry shortcut="Shift+Shift" count="77" />
       <entry shortcut="Shift+Up" count="30" />
       <entry shortcut="Tab" count="80" />
-      <entry shortcut="Up" count="3219" />
+      <entry shortcut="Up" count="3222" />
     </counts>
   </component>
 </application>

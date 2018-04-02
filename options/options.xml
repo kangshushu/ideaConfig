@@ -35,7 +35,7 @@
     <property name="eclipse.remote.project.storage" value="F:\IT\IdeaProjects\workingProjects\jlssip\jlssip" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="PLUGIN_FILTER" value="ideavi&#10;so&#10;sonar" />
+    <property name="PLUGIN_FILTER" value="sona&#10;s&#10;ideavi&#10;so&#10;sonar" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
     <property name="export.settings.path" value="C:\Users\kangkang\Desktop\settings.jar" />
     <property name="change.laf.on.editor.theme.change" value="false" />

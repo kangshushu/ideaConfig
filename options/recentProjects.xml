@@ -10,6 +10,7 @@
         <option value="F:/IT/IdeaProjects/workingProjects/template" />
       </list>
     </option>
+    <option name="lastPath" value="F:/IT/IdeaProjects/workingProjects/Ta3_Test" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/AppData/Local/Temp/测试数据(1).txt">
@@ -139,8 +140,8 @@
               <option name="build" value="IU-172.4574.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522466700667" />
-              <option name="buildTimestamp" value="1510045009363" />
+              <option name="projectOpenTimestamp" value="1522631376076" />
+              <option name="buildTimestamp" value="1510045014473" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

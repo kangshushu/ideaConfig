@@ -51,8 +51,10 @@
       <entry action="DebugClass" count="1" />
       <entry action="Debugger.EditFrameSource" count="8" />
       <entry action="Debugger.ViewText" count="1" />
+      <entry action="EditCustomProperties" count="2" />
+      <entry action="EditCustomVmOptions" count="3" />
       <entry action="EditSource" count="29" />
-      <entry action="EditorBackSpace" count="2558" />
+      <entry action="EditorBackSpace" count="2585" />
       <entry action="EditorChooseLookupItem" count="280" />
       <entry action="EditorCompleteStatement" count="1" />
       <entry action="EditorContextInfo" count="11" />
@@ -97,7 +99,7 @@
       <entry action="EditorToggleCase" count="27" />
       <entry action="EditorToggleColumnMode" count="14" />
       <entry action="EditorUnSelectWord" count="18" />
-      <entry action="EditorUp" count="2268" />
+      <entry action="EditorUp" count="2271" />
       <entry action="EditorUpWithSelection" count="30" />
       <entry action="Exit" count="5" />
       <entry action="ExpandRegion" count="6" />
@@ -184,7 +186,7 @@
       <entry action="RevealIn" count="61" />
       <entry action="Run" count="1" />
       <entry action="RunClass" count="1" />
-      <entry action="SaveAll" count="1109" />
+      <entry action="SaveAll" count="1114" />
       <entry action="SearchEverywhere" count="77" />
       <entry action="SelectIn" count="1" />
       <entry action="Servers.Deploy" count="1" />
@@ -193,7 +195,7 @@
       <entry action="ShowNavBar" count="56" />
       <entry action="ShowPopupMenu" count="7" />
       <entry action="ShowProjectStructureSettings" count="165" />
-      <entry action="ShowSettings" count="175" />
+      <entry action="ShowSettings" count="176" />
       <entry action="ShowSettingsAndFindUsages" count="1" />
       <entry action="ShowTips" count="1" />
       <entry action="ShowUmlDiagram" count="6" />
