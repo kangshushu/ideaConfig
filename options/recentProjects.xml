@@ -2,15 +2,21 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="F:/IT/IdeaProjects/workingProjects/Ta3_Test" />
-        <option value="F:/IT/IdeaProjects/workingProjects/sxwt_cms" />
         <option value="F:/IT/IdeaProjects/workingProjects/Ta3" />
+        <option value="F:/IT/IdeaProjects/workingProjects/newgxwt" />
+        <option value="F:/IT/IdeaProjects/workingProjects/sxwt_cms" />
+        <option value="F:/IT/IdeaProjects/workingProjects/Ta3_Test" />
         <option value="F:/IT/IdeaProjects/workingProjects/jlssip" />
         <option value="F:/IT/IdeaProjects/myselfProjects/spring-demo" />
         <option value="F:/IT/IdeaProjects/workingProjects/template" />
       </list>
     </option>
-    <option name="lastPath" value="F:/IT/IdeaProjects/workingProjects/Ta3_Test" />
+    <option name="openPaths">
+      <list>
+        <option value="F:/IT/IdeaProjects/workingProjects/newgxwt" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:/IT/IdeaProjects/workingProjects/Ta3" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/AppData/Local/Temp/测试数据(1).txt">
@@ -118,8 +124,8 @@
               <option name="build" value="IU-172.4574.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522331278791" />
-              <option name="buildTimestamp" value="1510045007861" />
+              <option name="projectOpenTimestamp" value="1522897635263" />
+              <option name="buildTimestamp" value="1510044962720" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -156,14 +162,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="F:/IT/IdeaProjects/workingProjects/newgxwt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522805228345" />
+              <option name="buildTimestamp" value="1510045017109" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="F:/IT/IdeaProjects/workingProjects/sxwt_cms">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-172.4574.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522389936790" />
-              <option name="buildTimestamp" value="1510044986051" />
+              <option name="projectOpenTimestamp" value="1522744992110" />
+              <option name="buildTimestamp" value="1510045013364" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -191,6 +208,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="F:/IT/IdeaProjects/myselfProjects" />
+    <option name="lastProjectLocation" value="F:/IT/IdeaProjects/workingProjects" />
   </component>
 </application>

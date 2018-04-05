@@ -1,12 +1,30 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-02-02T09:00:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2018-03-28T14:16:29</property>
+    <property name="modified">2018-04-03T11:10:10</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_ROW_COLOR" value="c1f2c2" />
   </colors>

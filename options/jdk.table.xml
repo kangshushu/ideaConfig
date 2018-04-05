@@ -96,5 +96,44 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_45&quot;" />
+      <homePath value="F:/Program Files/Java/jdk1.6.0_45" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://F:/Program Files/Java/jdk1.6.0_45/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
   </component>
 </application>

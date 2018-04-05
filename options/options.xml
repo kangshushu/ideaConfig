@@ -1,9 +1,9 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="android-component-compatibility-check" value="1522285720935" />
+    <property name="android-component-compatibility-check" value="1522897625862" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
-    <property name="project.wizard.group" value="spring" />
+    <property name="project.wizard.group" value="EMPTY_MODULE" />
     <property name="project.wizard.template" value="Empty Project" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
@@ -12,9 +12,9 @@
     <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
     <property name="KEYMAP" value="vim&#10;collap&#10;close&#10;delete lin&#10;impl" />
     <property name="ColorChooser.RecentColors" value="242-90-42-255,,,55-139-242-255,,,242-239-24-255,,,98-242-57-255,,,193-242-194-255,,,242-121-98-255,,,242-120-230-255,,,242-179-155-255" />
-    <property name="file.chooser.recent.files" value="F:/IT/anzhuang-work/apache-maven-3.5.0/conf/settings.xml&#10;F:/IT/anzhuang-work/apache-maven-3.5.0&#10;F:/IT/IdeaProjects/myselfProjects&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3&#10;F:/IT/IdeaProjects/workingProjects/Ta3&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/Ta3.iml&#10;F:/IT/IdeaProjects/workingProjects/Ta3/.idea/workspace.xml&#10;F:/IT/IdeaProjects/myselfProjects/homework/.project&#10;F:/IT/IdeaProjects/myselfProjects/homework/.classpath&#10;F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/Ta3_Test.iml&#10;F:/IT/IdeaProjects/workingProjects/Ta3/.idea&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/webapp/WEB-INF/classes&#10;C:/Users/kangkang/Desktop/1433953583.jar&#10;C:/Users/kangkang/Desktop&#10;F:/IT/IdeaProjects/workingProjects/template/sxwt_cms&#10;F:/IT/IdeaProjects/workingProjects/template/.idea/inspectionProfiles&#10;F:/IT/模板备份/开发备份/2018-3-8/cloudfile/sxwt_cms&#10;F:/IT/IdeaProjects/workingProjects&#10;F:/IT/IdeaProjects/myselfProjects/jl&#10;F:/IT/IdeaProjects/myselfProjects/demo/jlssip&#10;F:/IT/IdeaProjects/workingProjects/jlssip/jlssip/webapp&#10;F:/IT/IdeaProjects/workingProjects/jlssip/jlssip/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/jlssip/jlssip/webapp/WEB-INF/classes&#10;F:/IT/IdeaProjects/workingProjects/jlssip/jlssip&#10;C:/Users/kangkang/Desktop/SonarLint-3.2.1.2406.zip&#10;F:/Program Files/Java/jdk1.8.0_161&#10;F:/Oracle/weblogic1036&#10;F:/Oracle/Middleware/Oracle_Home&#10;F:/Oracle/Middleware&#10;F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/WEB-INF/classes" />
-    <property name="file.gist.reindex.count" value="17956" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="file.chooser.recent.files" value="F:/tomcats/tomcat-6.0.32-8081-idea&#10;F:/tomcats/tomcat-6.0.32-8080-idea&#10;F:/tomcats/tomcat-6.0.32-8081&#10;F:/tomcats/tomcat-6.0.32-8080&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/lib&#10;F:/Oracle/Middleware/Oracle_Home/wlserver/common/bin&#10;F:/tomcats/tomcat-8081&#10;F:/tomcats/tomcat-8080&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp/WEB-INF/classes&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp/WEB-INF/classes&#10;F:/Program Files/Java/jdk1.6.0_45&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht&#10;F:/IT/IdeaProjects/workingProjects/newgxwt&#10;F:/IT/anzhuang-work/apache-maven-3.5.0/conf/settings.xml&#10;F:/IT/anzhuang-work/apache-maven-3.5.0&#10;F:/IT/IdeaProjects/myselfProjects&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3&#10;F:/IT/IdeaProjects/workingProjects/Ta3&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/Ta3.iml&#10;F:/IT/IdeaProjects/workingProjects/Ta3/.idea/workspace.xml&#10;F:/IT/IdeaProjects/myselfProjects/homework/.project&#10;F:/IT/IdeaProjects/myselfProjects/homework/.classpath&#10;F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/Ta3_Test.iml&#10;F:/IT/IdeaProjects/workingProjects/Ta3/.idea&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/webapp/WEB-INF/classes" />
+    <property name="file.gist.reindex.count" value="21601" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15860428" />
     <property name="Copy.OpenInEditor" value="false" />
@@ -23,16 +23,15 @@
     <property name="FrameworksFinderRecursivePanel[2]" value="0.23282887" />
     <property name="FrameworksFinderRecursivePanel[3]" value="0.30395138" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="last.imported.location" value="F:/IT/IdeaProjects/workingProjects/Ta3/Ta3" />
-    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="last.imported.location" value="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt" />
+    <property name="create.project.preferred.importer" value="Eclipse" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="eclipse.project.dir" value="F:\IT\IdeaProjects\workingProjects\jlssip\jlssip" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="eclipse.project.dir" value="F:\IT\IdeaProjects\workingProjects\newgxwt\newgxwt\yhwtqt" />
     <property name="RunConfigurable.dividerProportion" value="0.2785171" />
     <property name="evlsprt3.172" value="10" />
     <property name="find.popup.splitter" value="0.60985625" />
-    <property name="eclipse.remote.project.storage" value="F:\IT\IdeaProjects\workingProjects\jlssip\jlssip" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="PLUGIN_FILTER" value="sona&#10;s&#10;ideavi&#10;so&#10;sonar" />
@@ -41,5 +40,7 @@
     <property name="change.laf.on.editor.theme.change" value="false" />
     <property name="selected.color.option.type" value="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
     <property name="ideavim.statistics.timestamp" value="1522331382198" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.22607261" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
   </component>
 </application>

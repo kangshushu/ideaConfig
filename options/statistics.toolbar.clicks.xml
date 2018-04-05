@@ -2,12 +2,14 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="AppServers.ChooseArtifacts@ServersToolWindowContent#Toolbar" count="1" />
-      <entry action="AppServers.DebugServer@ServersToolWindowContent#Toolbar" count="10" />
+      <entry action="AppServers.DebugServer@ServersToolWindowContent#Toolbar" count="27" />
       <entry action="AppServers.EditServerConfig@ServersToolWindowContent#Toolbar" count="5" />
       <entry action="AppServers.RemoveArtifact@ServersToolWindowContent#Toolbar" count="4" />
+      <entry action="AppServers.RunServer@ServersToolWindowContent#Toolbar" count="1" />
       <entry action="AppServers.StopServer@ServersToolWindowContent#Toolbar" count="5" />
       <entry action="CaptureMemorySnapShot@MainToolbar" count="5" />
-      <entry action="Debug@MainToolbar" count="5" />
+      <entry action="Debug@MainToolbar" count="20" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
       <entry action="HelpTopics@MainToolbar" count="1" />
       <entry action="Javaee.Deploy@unknown" count="1" />
       <entry action="Javaee.RefreshDeploymentStatus@unknown" count="5" />
@@ -16,18 +18,19 @@
       <entry action="RevealIn@MainToolbar" count="60" />
       <entry action="Run@MainToolbar" count="1" />
       <entry action="Servers.Deploy@ServersToolWindowContent#Toolbar" count="1" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="136" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="1" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="151" />
       <entry action="ShowSettings@MainToolbar" count="8" />
-      <entry action="Stop@DebuggerToolbar" count="7" />
-      <entry action="Stop@MainToolbar" count="25" />
+      <entry action="Stop@DebuggerToolbar" count="9" />
+      <entry action="Stop@MainToolbar" count="40" />
       <entry action="Stop@RunnerToolbar" count="1" />
       <entry action="Synchronize@MainToolbar" count="6" />
-      <entry action="ViewBreakpoints@DebuggerToolbar" count="4" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="5" />
       <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="6" />
       <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="6" />
       <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="2" />
-      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="56" />
-      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="56" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="72" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="117" />
       <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="40" />
       <entry action="com.intellij.find.impl.FindPopupPanel$MyShowFilterPopupAction@unknown" count="6" />
       <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@KeymapEdit" count="2" />
@@ -43,17 +46,18 @@
       <entry action="com.intellij.ide.structureView.newStructureView.TreeActionWrapper@StructureViewToolbar" count="15" />
       <entry action="com.intellij.ide.util.importProject.ProjectLayoutPanel$RenameAction@ProjectLayoutPanel.Entries" count="1" />
       <entry action="com.intellij.javaee.deployment.ui.actions.OpenArtifactEditorAction@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.javaee.run.execution.ToggleBuildOnFrameDeactivationAction@unknown" count="8" />
       <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@ProjectStructureArtifactEditor" count="6" />
       <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@unknown" count="2" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$10@Keymap" count="14" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$7@KeymapEdit" count="2" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="34" />
       <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="2" />
-      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="35" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="38" />
       <entry action="com.intellij.openapi.roots.ui.configuration.classpath.ClasspathPanelImpl$6@ToolbarDecorator" count="1" />
       <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="14" />
-      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="153" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="158" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="189" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="218" />
       <entry action="javaee.UpdateRunningApplication@DebuggerToolbar" count="7" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
       <entry action="org.sonarlint.intellij.actions.SonarAnalyzeFilesAction@SonarLint" count="3" />

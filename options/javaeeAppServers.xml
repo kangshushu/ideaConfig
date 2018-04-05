@@ -14,7 +14,37 @@
         <option name="VERSION" value="10.3.6.0" />
       </DATA>
     </ServerDK>
+    <ServerDK NAME="Tomcat 6-8080">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="F:/tomcats/tomcat-6.0.32-8080-idea" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="Tomcat 6-8081">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="F:/tomcats/tomcat-6.0.32-8081-idea" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
     <LibraryTable>
+      <library name="Tomcat 6-8080">
+        <CLASSES>
+          <root url="jar://F:/tomcats/tomcat-6.0.32-8080-idea/lib/jsp-api.jar!/" />
+          <root url="jar://F:/tomcats/tomcat-6.0.32-8080-idea/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 6-8081">
+        <CLASSES>
+          <root url="jar://F:/tomcats/tomcat-6.0.32-8081-idea/lib/jsp-api.jar!/" />
+          <root url="jar://F:/tomcats/tomcat-6.0.32-8081-idea/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
       <library name="Tomcat 8.0.47">
         <CLASSES>
           <root url="jar://F:/IT/anzhuang-work/apache-tomcat-8.0.47/lib/jsp-api.jar!/" />
