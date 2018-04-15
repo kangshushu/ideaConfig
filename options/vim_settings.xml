@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/javacode/nethall/com/yinhai/nethall/company/empBusiness/action/InsurancePersonAddDGAction.java" timestamp="1523172393212">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/src/com/yinhai/person/action/InsuredAction.java" timestamp="1522331493958">
         <mark key="[" line="75" column="0" />
       </file>
@@ -19,18 +22,31 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
+      <file name="F:/IT/workspace-myEclipse/sxwt_cms/javacode/tencentcard/com/yinhai/common/controller/BindSocialCardController.java" timestamp="1523503023252">
+        <mark key="'" line="662" column="38" />
+      </file>
+      <file name="F:/IT/workspace-myEclipse/sxwt_cms/javacode/cms/com/yinhai/message/client/api/TMHttpService.java" timestamp="1523505396109">
+        <mark key="[" line="95" column="12" />
+        <mark key="]" line="96" column="30" />
+        <mark key="^" line="96" column="30" />
+        <mark key="." line="96" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="80" column="55" filename="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" />
       <jump line="0" column="0" filename="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" />
       <jump line="171" column="0" filename="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/webapp/insured/insured.jsp" />
+      <jump line="473" column="50" filename="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/javacode/nethall/com/yinhai/nethall/company/empBusiness/action/InsurancePersonAddDGAction.java" />
+      <jump line="960" column="0" filename="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/javacode/nethall/com/yinhai/nethall/company/empBusiness/action/InsurancePersonAddDGAction.java" />
+      <jump line="0" column="0" filename="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/javacode/nethall/com/yinhai/nethall/company/empBusiness/action/InsurancePersonAddDGAction.java" />
+      <jump line="662" column="38" filename="F:/IT/workspace-myEclipse/sxwt_cms/javacode/tencentcard/com/yinhai/common/controller/BindSocialCardController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>;</text>
       </register>
       <register name=":" type="4">
-        <text>24</text>
+        <text>95</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -45,6 +61,8 @@
       <history-cmd>
         <entry>96</entry>
         <entry>24</entry>
+        <entry>552</entry>
+        <entry>95</entry>
       </history-cmd>
       <history-expr />
       <history-input />
