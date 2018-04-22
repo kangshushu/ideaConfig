@@ -6,7 +6,7 @@
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="573" y="199" />
     <location key="SettingsEditor.0.0.1366.768" x="3" y="46" />
     <location key="#com.intellij.ws.actions.GenerateJavaFromWsdlAction$1.0.0.1366.768" x="231" y="119" />
-    <location key="find.popup.0.0.1366.768" x="127" y="0" />
+    <location key="find.popup.0.0.1366.768" x="106" y="0" />
     <location key="#Project_Structure.0.0.1366.768" x="88" y="0" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="94" y="0" />
     <location key="#Tomcat_Server.0.0.1366.768" x="424" y="226" />
@@ -46,22 +46,22 @@
     <size key="find.popup.0.0.1366.768" width="921" height="612" />
     <size key="SettingsEditor.0.0.1366.768" width="1363" height="682" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1168" height="728" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1322" height="283" />
-    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1322" height="283" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1322" height="274" />
+    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1322" height="274" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="197" />
     <size key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" width="376" height="552" />
     <size key="new project wizard.0.0.1366.768" width="762" height="695" />

@@ -16,6 +16,9 @@
         <mark key="^" line="80" column="19" />
         <mark key="." line="80" column="19" />
       </file>
+      <file name="F:/IT/workspace-myEclipse/sxwt_cms/javacode/cms/com/yinhai/nethall/commom/callTencent/CallTencentInterface.java" timestamp="1523868399745">
+        <mark key="'" line="292" column="4" />
+      </file>
       <file name="F:/IT/IdeaProjects/workingProjects/Ta3_Test/Ta3_Test/src/com/yinhai/person/action/InsuredAction.java" timestamp="1522374577802">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="3" />
@@ -40,6 +43,8 @@
       <jump line="960" column="0" filename="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/javacode/nethall/com/yinhai/nethall/company/empBusiness/action/InsurancePersonAddDGAction.java" />
       <jump line="0" column="0" filename="F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/javacode/nethall/com/yinhai/nethall/company/empBusiness/action/InsurancePersonAddDGAction.java" />
       <jump line="662" column="38" filename="F:/IT/workspace-myEclipse/sxwt_cms/javacode/tencentcard/com/yinhai/common/controller/BindSocialCardController.java" />
+      <jump line="205" column="88" filename="F:/IT/workspace-myEclipse/sxwt_cms/javacode/cms/com/yinhai/nethall/commom/callTencent/CallTencentInterface.java" />
+      <jump line="292" column="4" filename="F:/IT/workspace-myEclipse/sxwt_cms/javacode/cms/com/yinhai/nethall/commom/callTencent/CallTencentInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

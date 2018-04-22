@@ -1,7 +1,7 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="android-component-compatibility-check" value="1523581664994" />
+    <property name="android-component-compatibility-check" value="1524400656940" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Empty Project" />
@@ -12,8 +12,8 @@
     <property name="Darcula.savedEditorTheme" value="Ladies Night" />
     <property name="KEYMAP" value="jrebel&#10;sou&#10;vim&#10;collap&#10;close" />
     <property name="ColorChooser.RecentColors" value="242-239-24-255,,,98-242-57-255,,,193-242-194-255,,,242-121-98-255,,,242-120-230-255,,,242-179-155-255,,,128-19-16-255,,,14-23-128-255,,,255-255-255-255,,,246-148-29-255,,,251-180-23-255,,,255-255-0-255,,,153-204-51-255,,,0-128-255-255,,,0-0-0-255,,,255-0-0-255,,,51-102-204-255,,,108-163-201-255,,,39-155-97-255,,,56-51-65-255" />
-    <property name="file.chooser.recent.files" value="F:/IT/workspace-myEclipse/sxwt_cms/lib&#10;F:/IT/workspace-myEclipse/sxwt_cms/webapp&#10;F:/tomcats/apache-tomcat-9.0.0.M17&#10;C:/Users/kangkang/Desktop/jr-ide-intellij-6.4.3_13-16.zip&#10;F:/IT/anzhuang-work/apache-maven-3.5.0/conf/settings.xml&#10;F:/IT/IdeaProjects/myselfProjects&#10;C:/Users/kangkang/Desktop/Solarized Light (Alternate).jar&#10;C:/Users/kangkang/Desktop/Obsidian.jar&#10;C:/Users/kangkang/Desktop/1433232482.jar&#10;C:/Users/kangkang/Desktop/Ladies Night 2.jar&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/webapp/WEB-INF/lib/jar&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/webapp/WEB-INF/lib&#10;C:/Users/kangkang/Desktop/intellij-rainbow-brackets-IC-2017.2.zip&#10;F:/tomcats/tomcat-6.0.32-8081-idea&#10;F:/tomcats/tomcat-6.0.32-8080-idea&#10;F:/tomcats/tomcat-6.0.32-8081&#10;F:/tomcats/tomcat-6.0.32-8080&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/lib&#10;F:/Oracle/Middleware/Oracle_Home/wlserver/common/bin&#10;F:/tomcats/tomcat-8081&#10;F:/tomcats/tomcat-8080&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp/WEB-INF/classes&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp/WEB-INF/classes&#10;F:/Program Files/Java/jdk1.6.0_45&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht" />
-    <property name="file.gist.reindex.count" value="21830" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;F:/IT/workspace-myEclipse/sxwt_cms/lib&#10;F:/IT/workspace-myEclipse/sxwt_cms/webapp&#10;F:/tomcats/apache-tomcat-9.0.0.M17&#10;C:/Users/kangkang/Desktop/jr-ide-intellij-6.4.3_13-16.zip&#10;F:/IT/anzhuang-work/apache-maven-3.5.0/conf/settings.xml&#10;F:/IT/IdeaProjects/myselfProjects&#10;C:/Users/kangkang/Desktop/Solarized Light (Alternate).jar&#10;C:/Users/kangkang/Desktop/Obsidian.jar&#10;C:/Users/kangkang/Desktop/1433232482.jar&#10;C:/Users/kangkang/Desktop/Ladies Night 2.jar&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/webapp/WEB-INF/lib/jar&#10;F:/IT/IdeaProjects/workingProjects/Ta3/Ta3/webapp/WEB-INF/lib&#10;C:/Users/kangkang/Desktop/intellij-rainbow-brackets-IC-2017.2.zip&#10;F:/tomcats/tomcat-6.0.32-8081-idea&#10;F:/tomcats/tomcat-6.0.32-8080-idea&#10;F:/tomcats/tomcat-6.0.32-8081&#10;F:/tomcats/tomcat-6.0.32-8080&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/lib&#10;F:/Oracle/Middleware/Oracle_Home/wlserver/common/bin&#10;F:/tomcats/tomcat-8081&#10;F:/tomcats/tomcat-8080&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt/webapp/WEB-INF/classes&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtqt&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp/WEB-INF/web.xml&#10;F:/IT/IdeaProjects/workingProjects/newgxwt/newgxwt/yhwtht/webapp/WEB-INF/classes&#10;F:/Program Files/Java/jdk1.6.0_45" />
+    <property name="file.gist.reindex.count" value="22930" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15860428" />
@@ -44,6 +44,6 @@
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
-    <property name="search.everywhere.max.popup.width" value="657" />
+    <property name="search.everywhere.max.popup.width" value="680" />
   </component>
 </application>

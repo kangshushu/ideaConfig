@@ -7,15 +7,15 @@
       <entry feature="StripeButton[Ant_Build].hidden" count="1" />
       <entry feature="StripeButton[Database].hidden" count="1" />
       <entry feature="StripeButton[Favorites].hidden" count="1" />
-      <entry feature="StripeButton[JRebel_remote_servers_log].hidden" count="4" />
+      <entry feature="StripeButton[JRebel_remote_servers_log].hidden" count="5" />
       <entry feature="StripeButton[Maven_Projects].hidden" count="1" />
       <entry feature="StripeButton[Project].hidden" count="1" />
       <entry feature="StripeButton[Structure].hidden" count="1" />
       <entry feature="StripeButton[Version_Control].shown" count="2" />
       <entry feature="configure.code.style.on.selected.fragment" count="1" />
-      <entry feature="debugger.reload.classes" count="71" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="199" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="21" />
+      <entry feature="debugger.reload.classes" count="72" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="215" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="27" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="8" />
       <entry feature="execute.Application.Debug" count="2" />
       <entry feature="execute.JavascriptDebugType.Run" count="1" />
@@ -52,10 +52,10 @@
       <entry feature="ide.settings.Tomcat_Server" count="13" />
       <entry feature="ide.settings.WebLogic_Server" count="3" />
       <entry feature="idea.caches.invalidated" count="10" />
-      <entry feature="ideaapp.started" count="152" />
+      <entry feature="ideaapp.started" count="158" />
       <entry feature="project.view.pane.AndroidView" count="4" />
-      <entry feature="project.view.pane.PackagesPane" count="11" />
-      <entry feature="project.view.pane.ProjectPane" count="14" />
+      <entry feature="project.view.pane.PackagesPane" count="13" />
+      <entry feature="project.view.pane.ProjectPane" count="16" />
       <entry feature="project.view.pane.Scope.Android Instrumented Tests" count="1" />
       <entry feature="project.view.pane.Scope.Local Unit Tests" count="1" />
       <entry feature="project.view.pane.Scope.Problems" count="2" />
@@ -63,7 +63,7 @@
       <entry feature="project.view.pane.Scope.Project Files" count="2" />
       <entry feature="project.view.pane.Scope.Tests" count="1" />
       <entry feature="project.view.pane.Scratches" count="1" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="2386" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="2635" />
       <entry feature="terminal.win" count="8" />
       <entry feature="tips.of.the.day.next" count="41" />
       <entry feature="uml.ShowDiagram.JAVA" count="5" />
